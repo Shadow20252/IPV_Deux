@@ -1,0 +1,13 @@
+#EXTINF:-1 group-title="Drone Israël",Drone — Tel Aviv Coast
+https://telavivdrone.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Drone Israël",Drone — Jérusalem Vieille Ville
+https://jerusalemdron.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Drone Israël",Drone — Mer Morte
+https://deadseaisrael.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Drone Israël",Drone — Haïfa Mont Carmel
+https://haifadrone.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Drone Israël",Drone — Eilat Mer Rouge
+https://eilatdrone.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Drone Israël",Drone — Massada
+https://massadadrone.live/hls/stream.m3u8
+#EXTINF
