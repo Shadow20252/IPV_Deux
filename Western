@@ -1,0 +1,33 @@
+#EXTM3U
+
+# ======== WESTERN ========
+
+#EXTINF:-1 group-title="Western" tvg-logo="",Grjngo Western
+https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/GrjngoWestern/playlist.m3u8
+
+#EXTINF:-1 group-title="Western" tvg-logo="",Classic Westerns Channel
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Western" tvg-logo="",Western Mania
+https://dai.google.com/linear/hls/event/rtv-western/index.m3u8
+
+
+# ======== CINÉMA CLASSIQUE ========
+
+#EXTINF:-1 group-title="Cinéma Classique" tvg-logo="",Grjngo Classic Movies
+https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/GrjngoClassics/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinéma Classique" tvg-logo="",Retro Movies
+https://dai.google.com/linear/hls/event/rtv-retro/index.m3u8
+
+#EXTINF:-1 group-title="Cinéma Classique" tvg-logo="",Classic Movies Channel
+https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
+
+
+# ======== OLD MOVIES ========
+
+#EXTINF:-1 group-title="Old Movies" tvg-logo="",Old Movies USA
+https://dai.google.com/linear/hls/event/rtv-oldmovies/index.m3u8
+
+#EXTINF:-1 group-title="Old Movies" tvg-logo="",Classic Cinema
+https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
