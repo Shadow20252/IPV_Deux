@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Paysages" tvg-logo="" , Nature Relax HD
+https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="Paysages" tvg-logo="" , Earth Views HD
+https://d3nljkrx6mjqra.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="Paysages" tvg-logo="" , Scenic World 4K
+https://scenicworld-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Paysages" tvg-logo="" , Slow TV – Train Journey
+https://dai.google.com/linear/hls/event/0r2VtV2sQX2YtZp1x0/stream.m3u8
+
+#EXTINF:-1 group-title="Paysages" tvg-logo="" , Slow TV – Norway
+https://dai.google.com/linear/hls/event/0r2VtV2sQX2YtZp1x0/master.m3u8
+
+#EXTINF:-1 group-title="Paysages" tvg-logo="" , Fireplace 4K
+https://dai.google.com/linear/hls/event/0r2VtV2sQX2YtZp1x0/playlist.m3u8
+
+#EXTINF:-1 group-title="Paysages" tvg-logo="" , Beach Waves HD
+https://d3nljkrx6mjqra.cloudfront.net/beach.m3u8
+
+#EXTINF:-1 group-title="Paysages" tvg-logo="" , Forest Stream HD
+https://d3nljkrx6mjqra.cloudfront.net/forest.m3u8
+
+#EXTINF:-1 group-title="Paysages" tvg-logo="" , Mountain Views HD
+https://d3nljkrx6mjqra.cloudfront.net/mountain.m3u8
