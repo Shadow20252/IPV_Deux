@@ -1,0 +1,50 @@
+#EXTM3U
+
+############################
+# 🌊 OCÉANS & PLAGES
+############################
+#EXTINF:-1 group-title="Océans" tvg-logo="https://i.imgur.com/2x0pQ0G.png",Coral City Camera
+https://coralcitycamerahls.com/live.m3u8
+
+#EXTINF:-1 group-title="Océans" tvg-logo="https://i.imgur.com/2x0pQ0G.png",Monterey Bay Aquarium - Jellyfish
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+
+############################
+# 🏔️ MONTAGNES & PANORAMAS
+############################
+#EXTINF:-1 group-title="Montagnes" tvg-logo="https://i.imgur.com/8zYxg8p.png",Japan Alps Live
+https://movie.mcas.jp/mcas/ja_live_1/master.m3u8
+
+#EXTINF:-1 group-title="Montagnes" tvg-logo="https://i.imgur.com/8zYxg8p.png",Norway Slow TV – Train
+https://nrk1live.akamaized.net/hls/live/2014500/nrk1/master.m3u8
+
+
+############################
+# 🌲 FORÊTS & RIVIÈRES
+############################
+#EXTINF:-1 group-title="Forêts" tvg-logo="https://i.imgur.com/7k8cQ1L.png",Idaho Forest Stream
+https://video.nest.com/stream/9fZtYkKJm3.m3u8
+
+#EXTINF:-1 group-title="Forêts" tvg-logo="https://i.imgur.com/7k8cQ1L.png",Oregon River Cam
+https://video.nest.com/stream/5jKfYtP9mA.m3u8
+
+
+############################
+# 🦅 ANIMAUX & FAUNE
+############################
+#EXTINF:-1 group-title="Animaux" tvg-logo="https://i.imgur.com/5n3xk0T.png",Big Bear Eagle Cam
+https://d3clqjduf2gvxg.cloudfront.net/live/bigbear1/index.m3u8
+
+#EXTINF:-1 group-title="Animaux" tvg-logo="https://i.imgur.com/5n3xk0T.png",Katmai Bears – Alaska
+https://d3slkpjpjk9q7.cloudfront.net/hls/bearcam.m3u8
+
+
+############################
+# 🎧 AMBIANCE & RELAXATION
+############################
+#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/4q0xk0T.png",Rain 4K Ambience
+https://stream-us1.rainymood.net/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/4q0xk0T.png",Fireplace 4K
+https://d2dw21aq0j0l5c.cloudfront.net/hls/fireplace.m3u8
