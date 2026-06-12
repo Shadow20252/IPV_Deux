@@ -1,1 +1,29 @@
-https://raw.githubusercontent.com/francois/paysages/main/paysages.m3u
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Paysages", Nature Relax 4K (YouTube)
+https://www.youtube.com/watch?v=VJLaSy0pYg8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Paysages", Scenic Relaxation 4K (YouTube)
+https://www.youtube.com/watch?v=VJLaSy0pYg8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Paysages", Earth Relaxation 4K (YouTube)
+https://www.youtube.com/watch?v=1La4QzGeaaQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Paysages", Oceans 4K Live (YouTube)
+https://www.youtube.com/watch?v=DWcJFNfaw9c
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Paysages", Forest Stream 4K (YouTube)
+https://www.youtube.com/watch?v=OdIJ2x3nxzQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Paysages", Mountain Views 4K (YouTube)
+https://www.youtube.com/watch?v=VJLaSy0pYg8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Paysages", Japan Nature 4K (YouTube)
+https://www.youtube.com/watch?v=1La4QzGeaaQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Paysages", Rain & Forest Ambience (YouTube)
+https://www.youtube.com/watch?v=1ZYbU82GVz4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Paysages", Fireplace 4K Ambience (YouTube)
+https://www.youtube.com/watch?v=L_LUpnjgPso
+
