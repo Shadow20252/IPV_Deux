@@ -1,0 +1,82 @@
+############################################################
+################  📺 QUÉBEC LIBRE — TV  ####################
+############################################################
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_Télé-Québec.svg" group-title="Québec TV",Télé-Québec (Officiel)
+https://mnmedias.api.telequebec.tv/m3u8/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assnat.qc.ca/favicon.ico" group-title="Québec TV",Assemblée Nationale du Québec (Direct)
+https://diffusion.assnat.qc.ca/live/stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ville.quebec.qc.ca/favicon.ico" group-title="Québec TV",Ville de Québec – Chaîne publique
+https://diffusion.ville.quebec.qc.ca/live/evq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.montreal.ca/themes/custom/mtl/favicon.ico" group-title="Québec TV",Ville de Montréal – Séances publiques
+https://livemtl.stream/playlist.m3u8
+
+
+############################################################
+################  📻 QUÉBEC LIBRE — RADIOS  ################
+############################################################
+
+#EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/rci/favicon.ico" group-title="Québec Radios",Radio Canada International
+https://rcavliveaudio.akamaized.net/hls/live/2006983/RCI/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://ckrl.qc.ca/wp-content/uploads/2020/09/cropped-ckrl-logo.png" group-title="Québec Radios",CKRL 89.1 Québec
+https://stream02.ustream.ca/ckrl.mp3
+
+#EXTINF:-1 tvg-logo="https://chyz.ca/wp-content/uploads/2020/09/chyz-logo.png" group-title="Québec Radios",CHYZ 94.3 Université Laval
+https://stream02.ustream.ca/chyz.mp3
+
+#EXTINF:-1 tvg-logo="https://ckiafm.org/wp-content/uploads/2020/09/cropped-ckia-logo.png" group-title="Québec Radios",CKIA 88.3 Québec
+https://stream02.ustream.ca/ckia.mp3
+
+#EXTINF:-1 tvg-logo="https://cfinfm.com/wp-content/uploads/2021/01/cfin-logo.png" group-title="Québec Radios",CFIN 100.5 Lévis
+https://stream02.ustream.ca/cfin.mp3
+
+#EXTINF:-1 tvg-logo="https://www.fm93.com/favicon.ico" group-title="Québec Radios",FM93 Québec (Talk)
+https://cogecomedia.leanstream.co/COGECOFM93-MP3
+
+#EXTINF:-1 tvg-logo="https://www.981fm.ca/favicon.ico" group-title="Québec Radios",98.1 FM Québec (Talk)
+https://cogecomedia.leanstream.co/COGECO981FM-MP3
+############################################################
+################  📺 QUÉBEC LIBRE — TV  ####################
+############################################################
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_Télé-Québec.svg" group-title="Québec TV",Télé-Québec (Officiel)
+https://mnmedias.api.telequebec.tv/m3u8/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assnat.qc.ca/favicon.ico" group-title="Québec TV",Assemblée Nationale du Québec (Direct)
+https://diffusion.assnat.qc.ca/live/stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ville.quebec.qc.ca/favicon.ico" group-title="Québec TV",Ville de Québec – Chaîne publique
+https://diffusion.ville.quebec.qc.ca/live/evq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.montreal.ca/themes/custom/mtl/favicon.ico" group-title="Québec TV",Ville de Montréal – Séances publiques
+https://livemtl.stream/playlist.m3u8
+
+
+############################################################
+################  📻 QUÉBEC LIBRE — RADIOS  ################
+############################################################
+
+#EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/rci/favicon.ico" group-title="Québec Radios",Radio Canada International
+https://rcavliveaudio.akamaized.net/hls/live/2006983/RCI/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://ckrl.qc.ca/wp-content/uploads/2020/09/cropped-ckrl-logo.png" group-title="Québec Radios",CKRL 89.1 Québec
+https://stream02.ustream.ca/ckrl.mp3
+
+#EXTINF:-1 tvg-logo="https://chyz.ca/wp-content/uploads/2020/09/chyz-logo.png" group-title="Québec Radios",CHYZ 94.3 Université Laval
+https://stream02.ustream.ca/chyz.mp3
+
+#EXTINF:-1 tvg-logo="https://ckiafm.org/wp-content/uploads/2020/09/cropped-ckia-logo.png" group-title="Québec Radios",CKIA 88.3 Québec
+https://stream02.ustream.ca/ckia.mp3
+
+#EXTINF:-1 tvg-logo="https://cfinfm.com/wp-content/uploads/2021/01/cfin-logo.png" group-title="Québec Radios",CFIN 100.5 Lévis
+https://stream02.ustream.ca/cfin.mp3
+
+#EXTINF:-1 tvg-logo="https://www.fm93.com/favicon.ico" group-title="Québec Radios",FM93 Québec (Talk)
+https://cogecomedia.leanstream.co/COGECOFM93-MP3
+
+#EXTINF:-1 tvg-logo="https://www.981fm.ca/favicon.ico" group-title="Québec Radios",98.1 FM Québec (Talk)
+https://cogecomedia.leanstream.co/COGECO981FM-MP3
